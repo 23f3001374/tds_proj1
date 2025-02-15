@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+requests
+torch -f https://download.pytorch.org/whl/cpu
+sentence_transformers
